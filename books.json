@@ -1,0 +1,248 @@
+{
+  "adventure_books": [
+    {
+      "category": "adventure",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "language": "English",
+      "imageLink": "hobbit.jpg",
+      "year": 1937
+    },
+    {
+      "category": "adventure",
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "language": "French",
+      "imageLink": "montecristo.jpg",
+      "year": 1844
+    },
+    {
+      "category": "adventure",
+      "title": "Into the Wild",
+      "author": "Jon Krakauer",
+      "language": "English",
+      "imageLink": "wild.jpg",
+      "year": 1996
+    },
+    {
+      "category": "adventure",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "language": "Greek",
+      "imageLink": "odyssey.jpg",
+      "year": -700
+    },
+    {
+      "category": "adventure",
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "language": "English",
+      "imageLink": "treasure.jpg",
+      "year": 1883
+    },
+    {
+      "category": "adventure",
+      "title": "Journey to the Center of the Earth",
+      "author": "Jules Verne",
+      "language": "French",
+      "imageLink": "journet.jpg",
+      "year": 1864
+    },
+    {
+      "category": "adventure",
+      "title": "King Solomon's Mines",
+      "author": "H. Rider Haggard",
+      "language": "English",
+      "imageLink": "king.jpg",
+      "year": 1885
+    },
+    {
+      "category": "adventure",
+      "title": "The Call of the Wild",
+      "author": "Jack London",
+      "language": "English",
+      "imageLink": "call.jpg",
+      "year": 1903
+    },
+    {
+      "category": "adventure",
+      "title": "The Lost City of Z",
+      "author": "David Grann",
+      "language": "English",
+      "imageLink": "lost.jpg",
+      "year": 2009
+    },
+    {
+      "category": "adventure",
+      "title": "The Princess Bride",
+      "author": "William Goldman",
+      "language": "English",
+      "imageLink": "brige.jpg",
+      "year": 1973
+    }
+  ],
+  "history_books": [
+    {
+      "category": "history",
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "language": "Dutch",
+      "imageLink": "diary.jpg",
+      "year": 1947
+    },
+    {
+      "category": "history",
+      "title": "Team of Rivals",
+      "author": "Doris Kearns Goodwin",
+      "language": "English",
+      "imageLink": "team.jpg",
+      "year": 2005
+    },
+    {
+      "category": "history",
+      "title": "Guns, Germs, and Steel",
+      "author": "Jared Diamond",
+      "language": "English",
+      "imageLink": "steel.jpg",
+      "year": 1997
+    },
+    {
+      "category": "history",
+      "title": "Postwar: A History of Europe Since 1945",
+      "author": "Tony Jud",
+      "language": "English",
+      "imageLink": "post.jpg",
+      "year": 2005
+    },
+    {
+      "category": "history",
+      "title": "A People’s History of the United States",
+      "author": "Howard Zinn",
+      "language": "English",
+      "imageLink": "people.jpg",
+      "year": 1980
+    },
+    {
+      "category": "history",
+      "title": "1776",
+      "author": "David McCullough",
+      "language": "English",
+      "imageLink": "1776.jpg",
+      "year": 2005
+    },
+    {
+      "category": "history",
+      "title": "The Guns of August",
+      "author": "Barbara W. Tuchman",
+      "language": "English",
+      "imageLink": "guns.jpg",
+      "year": 1962
+    },
+    {
+      "category": "history",
+      "title": "The Wright Brothers",
+      "author": "David McCullough",
+      "language": "English",
+      "imageLink": "Wrigh.jpg",
+      "year": 2015
+    },
+    {
+      "category": "history",
+      "title": "The Silk Roads: A New History of the World",
+      "author": "Peter Frankopan",
+      "language": "English",
+      "imageLink": "silk.jpg",
+      "year": 2015
+    },
+    {
+      "category": "history",
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "language": "English",
+      "imageLink": "sapiens.jpg",
+      "year": 2011
+    }
+  ],
+  "action_books": [
+    {
+      "category": "action",
+      "title": "Jurassic Park",
+      "author": "Michael Crichton",
+      "language": "English",
+      "imageLink": "jurssic.webp",
+      "year": 1990
+    },
+    {
+      "category": "action",
+      "title": "The Bourne Identity",
+      "author": "Robert Ludlum",
+      "language": "English",
+      "imageLink": "bourne.jpg",
+      "year": 1980
+    },
+    {
+      "category": "action",
+      "title": "The Hunt for Red October",
+      "author": "Tom Clancy",
+      "language": "English",
+      "imageLink": "redoctober.jpg",
+      "year": 1984
+    },
+    {
+      "category": "action",
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "language": "English",
+      "imageLink": "hungergames.jpg",
+      "year": 2008
+    },
+    {
+      "category": "action",
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "language": "French",
+      "imageLink": "montecristo.jpg",
+      "year": 1844
+    },
+    {
+      "category": "action",
+      "title": "I Am Pilgrim",
+      "author": "Terry Hayes",
+      "language": "English",
+      "imageLink": "pilgrim.jpg",
+      "year": 2014
+    },
+    {
+      "category": "action",
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "language": "English",
+      "imageLink": "hailmary.jpg",
+      "year": 2021
+    },
+    {
+      "category": "action",
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "language": "Swedish",
+      "imageLink": "dragontattoo.jpg",
+      "year": 2005
+    },
+    {
+      "category": "action",
+      "title": "Red Rising",
+      "author": "Pierce Brown",
+      "language": "English",
+      "imageLink": "redrising.jpg",
+      "year": 2014
+    },
+    {
+      "category": "action",
+      "title": "Timeline",
+      "author": "Michael Crichton",
+      "language": "English",
+      "imageLink": "timeline.jpg",
+      "year": 1999
+    }
+  ]
+}
